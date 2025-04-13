@@ -1,0 +1,26 @@
+---
+title: Mu isamaa, mu võrk ja rõõm
+memo_number: 11
+date: 2019-06-17
+time: 08:30
+deliveries: 166
+---
+
+# MEMO
+## 1 
+Teisipäeval käis 7.5 protsenti Memo lugejatest läbi meie esimeselt kohtumiselt [Vabamu](https://vabamu.ee/) kohvikus. Teisiti öeldes, koos jõi kohvi 12 inimest, kellest enamik teineteist varem ei olnud kohanud. Samas saalis, riiulite taga, tiirutas oma igavesi ringe [Kaido Ole](https://www.kaidoole.eu/) kineetiline skulptuur tasakaalu hoidvast mehest ja naisest.  
+![](https://9hgnq6yi.sendsmaily.net/560x/files/images/9a8ad7f6-6ffc-4d3d-9ae3-65d8816412d5.jpg)
+
+Kaido mõtles selle skulptuuri kunagi välja koos Danieliga. Skulptuuri mõte oli näidata, et inimesed pole kunagi päriselt vabad. Või hoopis selles, et tõeliselt vaba ollakse koos, arvestades üksteisega. Skulptuurimeest ja -naist ühedavad tugevad sidemed. Tugevad nagu rauast rööbas, otseses mõttes. Ka meie väikest kohviseltskonda liitvad sidemed muutusid näost näkku vesteldes tugevamaks.  
+## 2 
+Öeldes "võrgustik" kujutavad paljud kohe ette Facebook'i või LinkedIni. Võrgustik on aga laiem mõiste. **Nõrk side** on Facebookis tolle tüübiga, kes käis kolmandas B klassis, aga keda hiljem pole eriti näinud. **Tugev side** tekib aga nendega, kellest sa tõesti hoolid ja kellega ühendusse päriselt panustad - sellised võrgustikud tekivad sõpradega, naabritega, töökaaslastega, jne. Tänapäeval on levinud arvamus, et tugevaid sidemeid saab siiski nõrkadega asendada. [Stanfordi ülikooli sotsioloog Granovetter](https://en.wikipedia.org/wiki/Mark_Granovetter) rääkis nõrkade sidemete tugevustest (ha!) juba 1973. aastal ilmunud [artiklis](https://www.jstor.org/stable/2776392?seq=1#page_scan_tab_contents). 31 aastat hiljem sündis Facebook ja usk nõrkadesse sidemetesse on aina kasvanud. Nõrkade sidemete fännid arvavad, et ühendatud inimesed suudavad maagiliselt ise organiseeruda headuse nimel. Nõrkade sidemetega inimesed on tõesti suutelised koos lahendama lihtsaid probleeme. Näiteks edukalt otsida restoranimenüüdest kirjavigu või tõlkida kiiresti ära filmi subtiitrid. Teenustes nagu [Amazon Mechanical Turk](https://www.mturk.com/) ei pea lihtsate probleemide lahendajate anonüümsed grupid teineteist üldse tundma, piisab, et piisavalt paljud pakuvad vastuseid, lõpuks jõutakse statistiliselt õige lahenduseni. Jah, aga: selgub, et _KEERULISEMAD_ probleemid vajavad tugevaid võrke. Lazer & Friedman tegid Harvardi ülikooliis ühe arvutisimulatsiooni ([PDF siin](https://pdfs.semanticscholar.org/7024/518c21001f0fec3aab137145c299114dd388.pdf)). Graafikul lahendab paljude nõrkade seostega ("_totally connected_ ") simuleeritud rahvahulk lihtsaid probleeme tõesti kiiremini kui mingi väike, tugevalt seotud punt:  
+![](https://9hgnq6yi.sendsmaily.net/560x/files/images/graafik1.png)
+
+Kuid keerukatele probleemidele leiavad nõrgalt, aga rikkalikult ühendatud inimesed kahjuks pigem säästulahendusi, nagu näitab sellel graafikul vastu nähtamatut kvaliteedilage lapikuks murduv joon:  
+![](https://9hgnq6yi.sendsmaily.net/560x/files/images/graafik2.png)
+
+Igapäevaelus puudutavad keerukad probleemid meid tõsisemalt kui komaviga restoranimenüüs. Kuhu ehitada uus tehas? Mida teha pagulastega? Kuidas viia haridus vastavusse muutunud maailma vajadustega? Nõrkade sidemete maailma vastus neile on enamasti lihtsalt [NIMBY](https://en.wikipedia.org/wiki/NIMBY). Ei. Mitte siin, mitte täna. Kuid selline lähenemine ei aita pikas plaanis eluga edasi minna. Kui panna tugevate sidemetega inimesed ülesannet lahendama, leitakse suurema tõenäosusega parem lahendus. Ülaltoodud simulatsioonist tuli välja, et vähemate ühendustega võrgustik on võimeline leidma ka _rohkem lahendusvariante_. Nii kvaliteet kui kvantiteet paranevad.  
+## 3  
+Ehk võiks sellest kõigest mõelda nii, et kärarikas mass liitub kiirelt nende lahenduste taha, mida nad esimesena näevad JA millest kõik aru saavad (madalaim ühisnimetaja)? Samas kui viis üksteist usaldavat ja teemast huvitatud inimest turvalises ajurünnaku-ruumis suudavad palju pikemalt jätkata uute lahendusnurkade väljapakkumist. Jama on aga selles, et kui sellisesse kitsasse ringi liiga kauaks hauduma jääda, hakatakse neid seltskondi nimetama elukaugeks ja elitaarseks. Tagatoaks või süvariigiks. Mõnikord on need ebaõiglased sildid, aga mõnikord ka mitte. Siin siis sellele väikesele võrgustikule pureda kaks keerulist ülesannet: 1) Kuidas luua nõrkade sidemete ajastul rohkem tugevaid sidemeid ilma, et Eestist ei jääks järele vaid hulk üksteisega võitlevaid hõime? 2) Kuidas jagada meie tänase Eesti keerulisi probleeme sellisteks tükkideks, mida nõrkade sidemete maailm suudaks menetleda? PS: [Siit saad lugeda eelmist Memo](https://9hgnq6yi.sendsmaily.net/template/preview/id/12), mille sabast sellele eelnenud Memo ja nii edasi. Ja nagu ikka, võid kirju näidata mõnele tugevalt seotud sõbrale, või paluda ta otse listi lisada.  
+_Kui Sul tekkis kiire vastulause, idee edasiarendus või küsimus, vasta palun lihtsalt sellele emailile. Vastused lähevad Memo autoritele, mitte otse kõigile tellijatele._ _Memo on iganädalane kiri, kus Daniel ja Sten jagavad oma subjektiivset kiiranalüüsi Eestis ja maailmas loetust, kuuldust, räägitust või nähtust.__Memo tellimiseks peab juba listis olev lugeja oma isikliku soovitusena edastama uue lugeja mailiaadressi. Sa võid selle kirja ka ise saata mõnele sõbrale tutvumiseks edasi._  
+| |

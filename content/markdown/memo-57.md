@@ -1,0 +1,19 @@
+---
+title: Midagi kõrvale
+memo_number: 57
+date: 2020-05-04
+time: 08:30
+deliveries: 303
+---
+
+# MEMO
+## 1  
+Nii Daniel kui Sten mäletavad lapsepõlvest kui ägedad olid [Eesti Raadio kuuldemängud](http://194.36.162.160/seeria/kuuldemang/lavastuslik). Nostalgia asemel mõtleme aga sellele, kuidas võiks neid tänapäeva tuua. Aasta tagasi hakas mõte idanema [Memos nr 3](https://9hgnq6yi.sendsmaily.net/template/preview/id/5/). Ja eelmisel nädalal esitles Levila kuuldemängu ["Üks päev Mati Alaveri elus"](https://www.levila.ee/raadio/uks-paev-mati-alaveri-elus). See on meie teada esimene professionaalne kuuldemäng Eesti ajaloos, mis on sündinud väljaspool Eesti Raadio stuudioid. Levila tegi seda kuuldemängu nagu filmi - olid võtteplatsid Otepääl ja Nõval, olid õige naksumisega põrandad ja trepid. Olid riided, mis kahisesid õigesti. Olid päris ampullid. Oli hulk mikrofone igas ruumis. Näitlejad tegid päriselt seda, mida sa kuuled. Lihtsalt kaamerat pole.  
+![](https://9hgnq6yi.sendsmaily.net/560x/files/images/P1080245.jpg)
+
+Suusaraja võtte ajal lendas üle võttegrupi ronk, kes tõi kuuldavale rongakisa. See polnud planeeritud, kuid seda heli võid kuulda kuuldemängu avastseenis. Kuuldemängul on originaalmuusika, mille autoriks on muidugi Janek Murd. Palun kuula ja jaga seda esimest, ja anna Levilale tagasisidet. Töös on ka juba järgmine kuuldemäng. Sest me usume, et inimesed on ekraanidest väsinud.  
+## 2 
+Siseriikliku covid-naksutamise vahele oli eelmisel nädalal sõõm värsket õhku [Riigikogu Arenguseire Keskuse](https://www.riigikogu.ee/arenguseire/) seminar. Meie järgmiste aastate majanduse taastumise ja üldse riikliku olemise võimalused tulenevad eelkõige ikkagi suurest geopoliitikast, mitte Reinsalu vehklemisest pressikonverentsil. Sten sattus seminarile kuulama eelkõige [Parag Khanna](https://www.paragkhanna.com/)-t. Paragi mõtted ja raamatud globaliseerumise käigust ja mõjudest on [mõjutanud otseselt Teleporti](https://teleport.org/blog/2016/05/parag-khanna-joins-teleport-advisor/). Parag näeb, ja jagab, ühendatud maailmas ja eriti Aasia tõusus palju rohkem nüansse ja halltoone, kui tavapärane "kas peale jääb USA või Hiina" käsitlus. Teisena rääkis endine Soome poliitik Risto Penttilä, kes peab legendaarse endise Nokia juhi Jorma Ollilaga [mõttekoda](http://www.nordicwestoffice.com/), maailmapoliitika tuleviku-stsenaariumitest, mis nad paar aastat tagasi kokku joonistasid. [Neist on siin PDF ka](http://www.nordicwestoffice.com/global-scenarios-2021-2026) aga seminaril pakkis ta need lahti just covidi-mõjude seisukohast. Lisaks veel meie oma head makro-vaatlejad Merle Maigre ja Andres Sutt.   
+Tasub võtta see tunnike. [Kogu seminari video on siin.](https://www.facebook.com/arenguseire/videos/547611549468865)  
+## 3
+Elon Muski ja Sam Altmani asutatud, ja teiste seas ka Jaan Tallinna rahastatud tehisintellekti projekt [OpenAI](https://en.wikipedia.org/wiki/OpenAI) tegi tasuta avalikuks järjekordse portsu koodi, mille valmimise võimalikkuski oleks 10 aastat tagasi kahtlane tundunud. [Jukebox](https://openai.com/blog/jukebox/) destileerib erinevatest muusikastiilidest välja nende "essentsi" ja siis genereerib uusi stiilikategooriasse kuuluvaid lugusid, reggaest jazzini. Samuti on võimalik võrrelda, millised sõnad loob AI enda hittidele enne kui talle Kanye Westi või The Beach Boysi tekste näidati... ja pärast, kui ta neist on "aru saanud". Osa lugusid sünnivad nullist, osade aluseks on korraldus "tee sellele hitile uus lõpp". Kõik see kokku kõlab nagu oleks tulnukas teinud pisut hooletult läbi 10 aastat Heino Elleri muusikakooli, aga [tõesti armastab David Bowie'd väga-väga](https://jukebox.openai.com/?song=802874926). Siin on [loomingu kataloog, filtreeritav stiilide ja jäljendatud artistide kaupa](https://jukebox.openai.com/).

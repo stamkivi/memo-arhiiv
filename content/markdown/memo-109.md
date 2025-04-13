@@ -1,0 +1,69 @@
+---
+title: "" Kõigest"
+memo_number: 109
+date: 2021-05-03
+time: 06:00
+deliveries: 388
+---
+
+# MEMO ## 1 
+
+Töö juures poliitikast rääkimine on viimase paari aastaga kahes suunas pingesse rebitud.
+
+Esiteks ühiskondlik polariseerumine. Savisaar meeldib-või-ei-meeldi, rikkad peaksid maksma kõrgemat maksuprotsenti vmt – eks sellistel teemadel on kohvinurgas varemgi vaieldud. Tänastel eriarvamustel, olgu nendeks immigratsioon, rassiküsimused, vähemuste õigused, abort või mõne muu teema kerkimisel võivad kolleegid minna nii raksu, et enam ei taha tööasju “selle idioodiga” arutadagi.
+
+Aga teiseks “kohvinurk” kui selline. Varasemast nurgatagusest 1:1 või väikese lõunalaua jutust saab kaugtöö ajastul, Slackis ja emaili teel kogu kollektiivi ees kirjalikult dokumenteeritud probleem. Kes hoolikas pole, kistakse kaasa ja sunnitakse poolt valima. Või minimaalselt peab mingit konfiktset jura lugema. Tööajast.
+
+Sellepärast on mõned tehnoloogiafirmad palunud poliitjutud tööruumist ja -ajast välja jätta, ja keskenduda missioonile, mille pärast sai kokku tuldud ja palka võetakse. Ratsionaalne? Võimalik. Aga ka apoliitilisus iseenesest on poliitliselt laetud pomm.
+
+Otsa tegi septembris lahti Coinbase, kes sai selle otsuse eest [kõvasti peksa](<https://www.bloomberg.com/news/articles/2020-10-01/coinbase-workers-rattled-by-politics-ban-and-fear-being-muzzled>), kaotas mõne protsendi töötajaid, aga läks peatselt edukalt börsile ja on nüüd [väärt 60 miljardit dollarit](<https://finance.yahoo.com/quote/COIN/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAWifJob1NAGQJloivHkkqR6bMQfY477VVeogWHLPnb9efS9koEQilOb1LsGpNcP1cUSk_trJJ9oDFCzYKm2kBAsH5JNpckPl9n9jsqiy36Sk-Sndak0LCM7nfAFbmqqDxxfiTTIL6cK5pNS1DY98eLV6VNOWVrE_7TCj_8MKqzu>).
+
+Möödunud nädalal [kehtestas sarnase poliitika-keelu Basecamp](<https://world.hey.com/jason/changes-at-basecamp-7f32afc5>), kelle puhul tundub lugu mitut pidi silmakirjalikum arvestades nende asutajate endi poliit-aktivismi, ja kus on [lahkumisavaldused sisse andnud juba kolmandik väikesest kollektiivist](<https://techcrunch.com/2021/04/30/basecamp-employees-quit-ceo-letter/>).
+
+[Casey Newton kirjutas need lood võrldevalt ja tasakaalukalt lahti](<https://www.platformer.news/p/-what-really-happened-at-basecamp>).
+
+## 2 
+
+Ameerika ajakirjanik Matt Taibbi ei meeldi kõigile. Mõned tema analüüsid võivad laia julge väljendusviisi tõttu ontlikul inimesel natuke põhja alt ära lüüa. Kuid Daniel avastas, et tema raamat [Hate Inc. Why Today’s Media Makes Us Despise One Another](<https://www.amazon.com/Hate-Inc-Todays-Despise-Another/dp/1949017257>) on ülimalt terane ja huumoriga vürtsitatud lugu sellest, kuidas USA meedia ajas kõik omavahel tülli ning tegi Trumpist presidendi.   
+  
+See raamat on kohati sama hea kui Hunter S. Thompsoni klassikaline [Fear and Loathing on the Campaign Trail](<https://www.amazon.com/Fear-Loathing-Campaign-Trail-72/dp/0446313645>). Thompson ja Taibbi mõlemad on muide olnud Rolling Stone’i ajakirjanikud ja tundub, et Taibbi sihiks ongi käia Thompsoni jälgedes.   
+  
+Toome siinkohal ära seitse kümnest vihkamise reeglist, mida meedia Taibbi sõnul kasutab ning mis viivad selleni, et kõik on maruvihased kõigi peale. Kui palju need kehtivad Eestis?
+
+**Üks.** On vaid kaks ideed, mille vahel valida. Sa saad olla kas liberaal või konservatiiv…
+
+**Kaks.** Need kaks ideed on pidevas sõjas. Kokkuleppimise kohti pole.
+
+**Neli.** Kõik on kellegi teise süü. Kas kedagi saab süüdistada? JAH: teeme loo. EI: igav, ärme tee lugu. 
+
+**Kuus.** Ole kaasaelaja, mitte kaasamõtleja. Kui sa juba ühe poole poolt oled, siis oled sa selle poole fänn, midaiganes ta ka suust välja ei ajaks. 
+
+**Kaheksa.** Vastaspool on põhimõtteliselt Hitler. Me oleme valmis “teistest” uskuma kõige hullemaid asju.
+
+**Üheksa.** Võitluses Hitleriga on kõik lubatud.
+
+**Kümme.** Tunneta oma üleolekut neist teistest! See tähendab, et meie tiim on lihtsalt nii palju lahedam, targem, õigemal kursil, kui teiste oma. “Fucking maakad.” (Danieli lisandus).   
+  
+Ülejäänut soovitame lugeda juba otse raamatust. 
+
+## 3 
+
+Kaks professionaalset turundajat vastas meie eelmise Memo arvamusele, et riik reklaamib sotsiaalkampaaniates üksindust. Nad ütlesid, et üksikisiku kujutamine reklaamidel TÖÖTAB paremini ja just seepärast kasutatakse reklaamides enamasti üksikuid modelle.   
+  
+Neil on kitsalt vaadates õigus. Kuid samal ajal näitab see, et midagi ongi lahti riigi kui tellija mõõdikutega.   
+  
+Kitsas plaanis efektiivne. Tehtud.   
+  
+Kuid mis on saanud põhimõttest, et riik peab käituma riigina ning kõigis oma tegevustes mõtlema sellele, kuidas üles ehitada toimivat ühiskonda?   
+  
+Riigi asi on mõelda laiemalt ning leida kõikvõimalikke viise kuidas lõhenenud maailmas inimesi kokku tuua. See peaks olema läbiv eesmärk, muidu oleme lõpuks kõik üks punt füüsilisest isikust ettevõtjaid.   
+  
+Ka riigimeest ja tavapoliitikut eristab see, et riigimees suudab tegutseda millegi suurema huvides. Sama kehtib ametniku kohta, kes tellib kampaaniaid. 
+
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e33c514a-03f0-46c5-a936-61cf823c231c_948x950.png)](<https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe33c514a-03f0-46c5-a936-61cf823c231c_948x950.png>)
+
+Evald Okas, 1977. “Meie pere”  
+  
+PS: Eelmise Memo “üksilduse normaliseerimise” suurepärane vastand: [politseinike ja päästjate tänuvideo meditsiini-eesliinile](<https://www.youtube.com/watch?v=ntaybJzqDos>).
+
+PPS: Raamatu [Atlas of AI: Power, Politics and Planetary Cost of Artificial Intelligence](<https://yalebooks.yale.edu/book/9780300209570/atlas-ai>) autor avaldas seda inspireerinud [raamatute nimekirja](<https://bookshop.org/lists/atlas-of-ai-reading-list>), kuhu võiks matta kuid.

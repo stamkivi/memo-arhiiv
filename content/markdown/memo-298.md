@@ -1,0 +1,51 @@
+---
+title: "Ükski kingitus ei ole tasuta"
+memo_number: 298
+date: 2024-12-16
+time: 06:30
+deliveries: 757
+---
+
+## 1 
+
+Käes on kingiaeg. 
+
+Varajastel nullindatel rääkis Eesti miss Inna Roos [Kroonikale](<https://kroonika.delfi.ee/artikkel/60876789/10-kova-pohjust-miks-inna-roosi-esimene-abielu-kestis-vaid-7-kuud>), et tal on kaks korterit: ühes elab ja teises võtab vastu lilli ja kingitusi austajatelt. Lõpuks viis eksmees ikkagi kõik kingitused minema. Isegi lillemulla.
+
+Marcel Mauss kirjutas kunagi essee _[Le Gift](<https://www.journals.uchicago.edu/doi/abs/10.1086/733308?journalCode=ca>)_ sellest, et ükski kingitus ei ole tegelikult tasuta. Mauss rääkis kingitustest sotsiaalses-majanduslikus kontekstis. Tasuta pole asjad aga ka keskkonna mõttes.
+
+Näiteks toodab inimkond [suures koguses ebavajalikke riideid](<https://truecostmovie.com/learn-more/environmental-impact/#:~:text=Disposable%20Clothing,of%20textile%20waste%20each%20year.>). Iga kingitud riideese soosib uute tootmist. Tasuta ei ole ka ükski plastikust [lego](<https://www.wired.com/story/lego-haunted-by-its-own-plastic/>), ükski [telefon või videomäng](<https://www.who.int/news-room/fact-sheets/detail/electronic-waste-\(e-waste\)>) või ükski [lennureis](<https://www.transportenvironment.org/topics/planes/airplane-pollution>).
+
+Üks USA [turundusteadlane aga leiab, et](<https://business.wvu.edu/news-and-events/news/2023/05/09/guest-blog-julian-givi>) sentimentaalse väärtusega kingi saanud inimene on keskmiselt rõõmsam kui mõttetut rämpsu lahti pakkinud inimene. USAs [tehtud uuringu kohaselt](<https://civicscience.com/expected-holiday-gift-returns-up-47-this-year-led-by-gen-z/>) plaanib iga kolmas, ning sealhulgas üle poole 18-24aastastest, oma jõulukingi poodi tagasi viia.
+
+Tegelikult ei pea sellisele järeldusele tulemiseks isegi teadlane olema! Plastmass, elektroonika või lennukipilet võib tunduda küll lollikindel valik, kuid tunded on nendega seoses segased või isegi jalajälje mõttes süüdlaslikud. 
+
+Kas lapsed on erand? Vist mitte. Kuigi digitaalsed ja plastmassist asjad võivad laste jaoks staatuse poolest olla kõrgel kohal, [väärtustavad nad ka perega koos tegemise asju, alates lauamängudest, loomaaiakäigust, matkadest kuni kontsertide, laagrite ja trennideni](<https://www.reddit.com/r/Anticonsumption/comments/182oj94/sustainable_christmas_gifts_for_children/>). 
+
+## 2 
+
+[Paar memo tagasi](<https://memomemo.substack.com/p/memo-296-flippening>) rääkisime meedia _flippeningust_ ehk siis hetkest, mil selgub, et peavoolumeedia pole enam … elu keskpunkt. Siis ilmus The Atlanticus lugu [“The ‘Mainstream Media’ Has Already Lost”](<https://www.theatlantic.com/magazine/archive/2025/01/joe-rogan-political-right-media-mainstream/680755/>), mida soovitame võimalusel lugeda. 
+
+> _Nothing symbolizes the changed media landscape of this past election more than Rogan’s casual brush-off. Within a week, his interview with Trump racked up[more than 40 million views](<https://www.forbes.com/sites/stephenpastis/2024/10/31/joe-rogan-baselessly-claims-youtube-search-suppressed-trump-interview-talks-harris-in-latest-episode/>) on YouTube alone, and millions more on other platforms. No single event, apart from the Harris-Trump debate, had a bigger audience this election cycle. By comparison, Harris’s contentious interview with Bret Baier on Fox News, the most popular of the cable networks, drew 8 million viewers to the live broadcast, and another 6.5 million on YouTube._
+
+Wall Street Journalis ilmus aga kaks huvitavat lugu, mis kirjeldavad [riskantse rikastumise](<https://www.wsj.com/finance/investing/young-men-investing-bitcoin-stocks-sports-betting-1d44cf8c>) ja [esoteerika](<https://www.wsj.com/style/rfk-jr-health-initiatives-crunchy-moms-d8efee00>) muutumist peavooluks. Neid nähtusi kannavad alternatiivse meediareaalsuse jõed, mis seni peavooluks nimetatud veekogusse üha võimsamalt sisse voolavad, kuniks nad selle üle võtavad. 
+
+Peavoolumeedia ise on jätkuvalt alles. Siin viidatud loodki on ju pärit suurtest meediakanalitest. Lihtsalt see meedia pole tegelikult enam peavool ega asu keskel, kuigi nimi [“meedium”](<https://www.etymonline.com/word/medium#etymonline_v_12522>) ütleb, et peaks asuma.
+
+## 3 
+
+Üks asi, mida meiesugused globalistid multi-polariseeruva maailma puhul sageli natuke pelgavad, on interneti balkaniseerumine. Meil on juba täna tegelikult lääne internet, [hiina internet](<https://en.m.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E>), [vene internet](<https://en.m.wikipedia.org/wiki/Internet_censorship_in_Russia>) ja siis pagan teab [mis asi seal Põhja-Koreas](<https://en.m.wikipedia.org/wiki/Internet_in_North_Korea>) ja Iraanis veel on.
+
+Mida enam inforuum killustub, siis kaob vähenegi ühisosa ja konfliktid Nende Teistega Seal Kaugel on kergemad puhkema.
+
+Aga teistpidi, kui need virtuaalsed riigi- või väärtusruumi piirid juba on tekkinud, siis saab neid mõlemas suunas oma ruumi kaitsmiseks ära kasutada.
+
+[Möödunud nädalal näiteks selgus](<https://unseen-japan.com/tokyo-university-chinese-students-tiananmen/>), et Tokyo Ülikooli sisseastumislehe HTML-koodi oli peidetud märksõna: 六四天安門. 
+
+See tähendab “4. juuni Tiananmen”. Ja kuna [1989\. aastal Taevase Rahu Väljakul toimunu](<https://en.m.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre>) on Hiina kommunistidele siiani valus teema, siis Suur Hiina Tulemüür loomulikult ei lase lihtsaid inimesi sellist “propagandat” lugema. Ehk siis antud juhul olid blokeeritud Hiina abiturientide katsed Jaapanisse õppima pääseda.
+
+* * *
+
+PS: Kui Vene raha paneks Rumeenias [äärmuspopulisti võimule](<https://ecfr.eu/article/romanias-election-crisis-a-stark-warning-for-nato-nations-on-russian-meddling/>), siis oleks sellel probleemil veel üks mõõde: [aastaks 2027 on just Rumeenia suurim Euroopa Liidu ](<https://www-antena3-ro.translate.goog/economic/romania-va-fi-cel-mai-mare-producator-de-gaze-din-ue-din-2027-ceo-ul-omv-petrom-neptun-deep-va-aduce-20-de-mld-euro-statului-roman-730314.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp&utm_source=sundaycet.beehiiv.com&utm_medium=newsletter&utm_campaign=spray-and-pray&_bhlid=aa783b8dea9db5efe768cc79e07bccf24b8d7beb>)_[sisene](<https://www-antena3-ro.translate.goog/economic/romania-va-fi-cel-mai-mare-producator-de-gaze-din-ue-din-2027-ceo-ul-omv-petrom-neptun-deep-va-aduce-20-de-mld-euro-statului-roman-730314.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp&utm_source=sundaycet.beehiiv.com&utm_medium=newsletter&utm_campaign=spray-and-pray&_bhlid=aa783b8dea9db5efe768cc79e07bccf24b8d7beb>)_[ maagaasiallikas](<https://www-antena3-ro.translate.goog/economic/romania-va-fi-cel-mai-mare-producator-de-gaze-din-ue-din-2027-ceo-ul-omv-petrom-neptun-deep-va-aduce-20-de-mld-euro-statului-roman-730314.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp&utm_source=sundaycet.beehiiv.com&utm_medium=newsletter&utm_campaign=spray-and-pray&_bhlid=aa783b8dea9db5efe768cc79e07bccf24b8d7beb>).
+
+PPS: WSJ lugu sellest, kuidas [Leedu esimene ükssarvik Vinted käis enne viiemiljardise väärtuseni jõudmist põhjas ära](<https://archive.is/owwJU>).

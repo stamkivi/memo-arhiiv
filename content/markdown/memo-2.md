@@ -1,0 +1,19 @@
+---
+title: Väikesed andmed, mis sisendavad lootust.
+memo_number: 2
+date: 2019-04-15
+time: 08:30
+deliveries: 49
+---
+
+# MEMO
+
+_Aitäh esimese numbri tagasiside eest. Tänu teie soovitustele on tellijaid nüüd 50. Palun soovitage veel sõpru, keda tahaksite neid kirju saama._  
+## 1 
+Suur pilt näitab, et Eesti poliitika on muutumas raevukamaks. Lavale on astunud poliitikud, kes varastavad tähelepanu üha karmimate väljaütlemistega. Oleks ju lihtne järeldada, et valitud esindaja on oma valijate täpne peegeldus. Suurandmete ajastul on vahel kasulik vaadata väikeseid andmeid. Näiteks, Eesti idufirmasid koondav [Startupijuhtide klubi](https://www.startupleadersclub.com/) viis sel talvel koostöös [antropoloogidega](http://www.antropoloogia.ee/) läbi 40 vestlust konservatiivsemalt mõtlevate Eesti inimestega, et paremini aru saada, kuidas paistab Eesti väljaspool Ülemiste Cityt või Lift99-t. Jutuajamiste käigus koorusid välja inimeste väga erinevad mured. Saadi tuttavaks väärika emakeeleõpetajaga, kes tundis, et eesti keel ja kultuur hääbuvad ning kellele mõjub ähvardavalt teadmine, et lapselaps ei tähista lasteaias enam Kadripäeva, kuid selle asemele on tulnud kommertslik Halloween. Küsitleti väikelinna ettevõtjat, kelle jaoks Euroopa Liidu normid ja bürokraatia käivad üle pea. Vesteldi Eesti inimestega, kes hoolimata kahest töökohast ei suutnud perega ots-otsaga kokku tulla ning veel paljude teistega.  
+## 2
+Esimene järeldus. Neid inimesi liitis üks tunne – nad tundsid, et nende muresid ei peeta teiste poolt oluliseks. Paljude puhul ilmnes sügav umbusk väljendite suhtes nagu “Eestil pole kunagi varem nii hästi läinud kui täna”. “Eestil võib olla läheb hästi, kuid minul ei lähe,” ütlesid nad. Paljud neist inimestest võisid valida EKRE-t, paljud Isamaad, kuid paljud ei osanud oma muresid ja rahvustunnet kinnitada ühegi erakonna platvormi külge. Ja peaagu ühtegi kaheksast tüpaazhist ei saanud kirjeldada väjendiga “lihtsalt vihane”. Teine järeldus. Ei ole olemas "ühte konservatiivset valijat". On palju erinevate vaadete ja ootustega inimesi.  
+## 3  
+Kui uurijad ettevõtjatele vestlustulemusi esitlesid, saabus saali kergendustunne. Ka need 19 protsenti inimesi, kelle nimel kõneledes proovitakse ühiskonda lõhesid lüüa, ei soovi lõhkuda seda, mis Eestis on hästi. Nad soovivad olla osa lahendustest. Paljud vestlustes ilmsiks tulnud mured on arusaadavad. Meie kiiresti kasvavad idufirmad tegutsevad rahvusvaheliselt, aga siiski on nad Eestis kohal. Nad saavad kaasa rääkida nii eesti keele rikastamisel, kultuuri arendamisel kui ka piirkondlike erinevuste leevendamisel. Nad saavad kaasa aidata inimeste kuulamisel. Küsimus on ainult soovis ja teadmises, kuhu oma aega panustada. Selle mõistmiseks tuleb oma mullist väljas käimise vaev ette võtta. Pole vaja palju detailseid numbreid vaid lihtsalt mõnikümmend vestlust. See uuring oli vaid ühe seltskonna projekt. Mis siis, kui samas vaimus mõtlejaid oleks rohkem? Mida teeme järgmise nelja aasta jooksul? PS. Loe [Tricia Wangi lugu](https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7) sellest, kuidas liita suuri ja väikeseid andmeid "tihedateks andmeteks" ning kasutada neid paremate otsuste tegemiseks. [Kliki siia](https://9hgnq6yi.sendsmaily.net/browser/HU1OsKcyVGMt6lilcbLW-KDWQpByhMKyylr4qTzBztV1iyIrvyOGINcCNtG5QRENtZ_kS3w1MB0ErVDhzsPpBBa52bH2bWyobGkHxufsa39ooUUReRQ3V7R65hX_uWMR6z-eXWuFOzg,/), kui sa jäid ilma eelmisest Memost.  
+_Kui Sul tekkis kiire vastulause, idee edasiarendus või küsimus, vasta palun lihtsalt sellele emailile. Vastused lähevad Memo autoritele, mitte otse kõigile tellijatele._ _Memo on iganädalane kiri, kus Daniel ja Sten jagavad oma subjektiivset kiiranalüüsi Eestis ja maailmas loetust, kuuldust, räägitust või nähtust.__Memo tellimiseks peab juba listis olev lugeja oma isikliku soovitusena edastama uue lugeja mailiaadressi._  
+| |

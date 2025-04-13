@@ -1,0 +1,35 @@
+---
+title: Sõnumid raha eest
+memo_number: 63
+date: 2020-06-15
+time: 08:30
+deliveries: 316
+---
+
+# MEMO
+## 1  
+Stenile tuli kolmapäeval kiri: _"Minu nimi on ______ ja kirjutan Teile agentuurist MediaCom Eesti. Teeme tööd <ühe Euroopa institutsiooniga>, kes otsivad arvamusliidreid ja mõjuisikuid kõnelema neile olulistest teemadest" jne jne._ OK, ilmselt mingi kutse konverentsile, mõtles Sten. Aga oot... _"Kuna tuleva kampaania täpne ülesehitus on veel lahtine, siis selle kirja eesmärk on küsida Teie võimaliku koostöö hinda. Mainin ära, et koostöö ei piirduks üksnes sisuloomega Teie sotsiaalmeediakanalitel. [...] Mõistan, et on keeruline teha hinnapakkumist, kui täpset koostöö formaati ei tea, ent asjaolude lihtsustamiseks võite esitada oma 1 sotsiaalmeediapostituse (Instagram/ Facebook/ Twitter/ LinkedIn jms) ja üritusel osalemise hinna. Kui teil on olemas valmis hinnakiri, siis see lihtsustaks meie tööd tohutult."_ Selline ettepanek, et Euroopa Liit soovib osta Eesti ettevõtjalt tühihinnaga säutse tundus piisavalt jabur ja alandav, et Sten otsustas asja uurida. Liiati, kuna eeldus, et tavalisel inimesel on taskus oma sõnade hinnakiri tekitas mõtte, et kas tõesti on suunamudijate klass laiem kui me keegi arvamegi. Võttes ühendust viidatud kliendi Eesti haru juhiga, tuli sealt mõnevõrra shokeeritud vastus, mis välistas, et nad sellist teenust tellida sooviks, ja pidas seda EL eelarve puhul lausa illegaalseks. Kuna vabandus oli kiire ja viisakas, ja järgnes kohene laks agentuuri randmele, las siis nende nimi praegu jääb. Peatselt oli kuulda ka Mediacomist: "_Nimelt soovime eelneva kirja tagasi kutsuda."_ Sorry, sotsiaalmeediaspetsialist SP, aga meil on Sulle kehv uudis... e-mail ei tööta päris nii. Asi saab palju selgemaks, kui külastada [Mediacomi Eesti veebilehte](https://mediacom.ee/): _"LOOME KULTUURI. Meie kultuuri saab kokku võtta järgnevalt – KNOW IT. PUSH IT. SHARE IT. DO IT."_ Siit mõtlemisaineks: äkki suunamudija ei olegi ainult see naljakas poolalasti tüüp Instagramis, kes sai tasuta hotellitoa. Mitu korda päevas mudib Sind mõni soliidne sotsiaalvõrgu-sõber, ja veel Sinu enda maksuraha eest?  
+## 2 
+Rääkides tasutud teadaannetest, siis korra ka nendest, mida ei ole plaanis varjata. Nii paljud teist vastasid küsimusele, kas te loeks Memo ka nt ~5 EUR eest kuus, et jagaks noppeid kõigile tagasi ka: **EI MAKSAKS (5):**
+  * "Näen Memo väärtust teatava võrgustiku, kogukonna, kokkutoojana. Asjad nagu Memo hommikukohvid motiveeriks rohkemgi maksma, kui esmaspäeviti saadav sisu üksinda. Pidev info üleküllus pigem ei soosi selle saamise eest maksma."
+  * "Vist isegi 1 EUR oleks liiga kallis. Niigi nii palju head tasuta infot saadaval. Seoses koroonakriisiga hakkasin maksma lisaks Postimehele Delfi ja Äripäeva pakettide eest pigem selle mõttega, et toetada kohalikku meediat - tõenäoliselt loobun varsti. Usun rohkem filantroopilisse annetustel põhinevasse mudelisse, nagu Guardian seda kaudselt on."
+  * "Muud tasuta sisu on piisavalt."
+  * "Mu enda lemmik oleks ilmselt Spotify tüüpi kuumaksuga mudel mis koondab hallataval kombel kokku valitud/toimetatud sisu kus piisavalt huvitavat ja kasulikku lugemist ning samas saab makseotsuse üks kord ära teha ning sellega muretult elada."
+  * "Ma eelistaks ka pigem The Guardiani mudelit, kus igaüks saab valida mis osas ta toetab kui kindlat fikseeritud summat igaühele."
+
+**JAH, MAKSAKS (10):**
+  * "See, kui meelsasti toetan, sõltub sellest, et mida autor(id) teevad - kas see ongi nende elatusallikas või pigem hobiprojekt. Teile maksaks trots-patriotismist, et sõltumatu mõtlemine jätkuks."
+  * "Näen järjest rohkem, et hea meedia eest ollakse nõus maksma seda hinda mida küsitakse."
+  * "Küsimus ei ole ühes, kolmes või viies euros. Palju olulisem on see, et ma ei taha mingit järgmist kontot. Pange sinna Apple / Google pay külge ja läheb samasse lahtrisse selle ülemakstud hommikuse coffeshopi cappuccionga, ilma midagi küsimata."
+  * "Teemade väärtus on hüplik. Mõni nädal pole mul loetust midagi kaasa võtta olnud. Aga kui signaal > müra püsib (see on muidugi iga kirjutise puhul isiklik), siis suurusjärk 5 eur kuus oleks ok. Mulle meeldiks selline solidaarne hinnastus et kuine tellimus maksaks hästi vähe, et poleks tasuta, näiteks üks euro. Aga kui ma konkreetset lugu loen siis ma saan (aga ei pea) anda sellele loole natuke raha juurde. Kõige ehedam turumajandus. Arvestab inimeste isiklike rahavõimaluste ja -muredega."
+  * "Ühiskondlikult on jäiga maksumüüri taga olev väärtsisu probleem. Väljaanne peab teenima, kuid miks kõigilt ühepalju? Äkki võiks teha 'sotsiaalse päästiku' - kui lugu kogub mingi summa (500? 1000?) siis ta muutub avalikkusele tasuta kättesaadavaks. See hinnastus oleks natuke nagu ühisrahastus raviraha kogumiseks, ainult et patsient on terve ühiskond."
+  * "Uudistest ei ole puudus. Heast, tasakaalustatud ja läbi mõeldud kriitilisest arvamusest aga küll. Sellisest, mis kehutab edasi mõtlema. Või (vastu) vaidlema."
+  * "Hind €1.-/memo hüppas kohe pähe. Miks? Sest €1 on justkui ei midagi ühe ampsu eest. Samas 5 euri kuu tundus juba kui "subscription" ja sellega "püsikulu", kuigi summa on ju sama."
+  * "Maksaks, aga kuus mitte sama palju kui Ekspress grupi või Netflixi kuutasu."
+  * "Täna on mul subscription ainult Spotyfy, Netflix. Memo läheb justkui sinna alla, sest on hästi mõnusas formaadis ja stiilis kirjutatud ühe ampsuna tarbitav "edutainmenti" hõnguline tekst. (mis sobib ka mu maailmavaatega, I guess)"
+  * "Soovitaks juurde ka [Sam Harrise podcasti](https://samharris.org/podcast/) mudelit, kus täispikkuses saavad kuulata sead premium kasutajad, aga need, kellel pole parasjagu võimalust sellise sisu eest maksta, võivad küsida enda tasuta sinna listi lisamist. Kõik avaldused rahuldatakse, no questions asked."
+  * "Aga kui see küsimus teistpidi keerata: kas teie kirjutaksite Memo edasi ka siis, kui mitte keegi poleks nõus selle eest maksma?"
+
+Ja lugeja ST soovitas teema jätkuks [hiljutist NYT lugu](https://www.nytimes.com/2020/05/24/business/media/new-model-celebrity.html). Suur suur tänu kõigile, kes aega võtsid, vastused olid väga põhjalikud. Tundub, et eriti ettevõtjailt, kes palju ise hinnastamise peale mõelnud on. Me veel ei tea, mis lõpuks selle Memoga teeme, aga selgelt tänaseid lugejaid kindlasti maksumüüriga peletada ei tahaks. Me õpime teilt kõigilt palju rohkem, kui ise pakkuda suudame. Ja siit ilmselt tuleb ka see loogika, et need ühesuunalised e-mailid, see selleks — suurem väärtus on lõpuks peidus selles, kuidas me selle mitmesajapealise võrgustiku liikmeid omavahel kokku saame tuua.  
+## 3
+Black Lives Matter teemaga seoses tutvustas lugeja TO meile "merilõvistumise" mõistet. [See koomiks, kust termin pärit](http://wondermark.com/1k62/) võtab hästi kokku iga tundliku sotsiaalse teema ümber internetis väitlemise riskid.

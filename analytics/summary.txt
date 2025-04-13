@@ -1,0 +1,12 @@
+Memo Archive Analytics Summary
+=============================
+
+total_memos: 321
+avg_words_per_memo: 554.3676012461059
+avg_links_per_memo: 14.18380062305296
+avg_images_per_memo: 1.2024922118380061
+avg_deliveries: 445.6884735202492
+avg_sentiment: -0.11441612904191806
+time_span:
+  start: 2019-04-08
+  end: 2025-04-13

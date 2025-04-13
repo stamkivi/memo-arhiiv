@@ -1,0 +1,20 @@
+---
+title: Teie kirjad meile
+memo_number: 49
+date: 2020-03-09
+time: 08:30
+deliveries: 271
+---
+
+# MEMO
+## 1  
+Lugesime just kokku meie memodele seni vastanud inimesed ning saime 42. Neile lisaks veel inimesed, kes on saatnud listi lisamiseks mõne sõbra meiliaadressi. Ehk siis, umbes 15%-ga teist on Memo pigem vestlus, mitte postitus. Poolesajanda Memo künnisel tähendab see rohkem kui ühte uut mõtet või päris uut kontakti nädalas. Kõige rohkem on kahte tüüpi kirju:
+  * kirjad, mis esitavad vastuargumente memos ilmunud mõtetele
+  * kirjad, mis saadavad Memos kirjutatuga seotud lugemissoovitusi
+
+Allpool kaks hiljutist näidet.  
+## 2 
+Kui me [eelmisel nädalal kirjeldasime](https://9hgnq6yi.sendsmaily.net/template/preview/id/50/) üht vestlust, mis võrdles [Jeff Bezose varandust](https://www.bloomberg.com/billionaires/profiles/jeffrey-p-bezos/) tänaste noorte pensionivõimalustega tulevikus, vastas Memo lugeja L.I. meile nii: _"Bezos ju “ei istu” sadade miljardite otsas nagu mingi McPart. See kapital on investeeritud ettevõtetesse, mis iga minut toodavad ühiskonnale netopositiivset väärtust. Toovad kaupu mõistliku hinnaga koju, näitavad filme, töötavad välja uusi ravimetoodikaid või raketitehnoloogiaid. Need ettevõtted annavad tööd sadadele tuhandetele inimestele ja läbi erinevate ahelate kaudselt veel miljonitele._ _Vaade, et keegi “istub miljardite otsas” sisaldab implitsiitselt väidet, et kuskil võiks olla keegi teine, kes suudab kapitali-allokatsiooni teha paremini, kui see miljardär. Investeerida tõhusamalt, ühiskonna laiemaks hüvanguks._ _See on üsna lühinägelik vaade. See, et Bezos on oma investeeringutes olnud kasumlik, ainult kinnitab fakti, et ühiskond väärtustab tema ettevõtete loodud tooteid ja teenuseid. Teenitud kasum ei jää kellegi Smaugi varakambrisse, lohe kõhu alla, vaid investeeritakse uuesti äridesse (lõviosa) v heategevusse või läheb tarbimisse (väike osa, majad, jahid jne, andes omakorda tööd paljudele inimestele)."_ See on väga hea teemaarendus, mille abil varandusliku kihistumise probleeme halltoonideks lahti pakkida.  
+## 3
+Üks teine Memo lugeja, samuti nimega L.I. (ausalt, ei ole sama inimene!) saatis samal ajal hoopis teistsuguse lingi: NYT avaldas [suurepärase olemusloo sellest, kuidas oma pisikese suuruse kohta tehnoloogiliselt ja startup-maailmas superjõuks kasvanud Iisrael käriseb sotsiaalselt igast nurgast](https://www.nytimes.com/2020/03/01/world/middleeast/israel-election-issues.html?referringSource=articleShare). Arenenud maailma kohutavaim liiklus, sest ühistransporti pole piisavalt arendatud. Viimase piiri peal üle koormatud haiglad. Üha lootusetuma tasemega riigikoolid. Eesti idufirmad annavad täna umbes 3% SKPst, ja kasvavad kiirusega, mis aastaks 2025 viivad meie tehnoloogiasektori 10%ni majandusest. Mõne arvutuse järgi võiks 2030 tehnoloogias olla hõivatud juba üle 80,000 eestimaalase. Tänane valitsus uurib meil nii hoolega lineaarselt minevikku, et selliseid eksponentsiaalseid tulevikuarvutusi ilmselt pole aega teha. Ilma nendeta on aga oht, et jääme tulevikust maha. Ja Aktuaalne Kaamera rääkis juba sel nädalal, et Eesti [maapiirkonda pereasti leidmiseks ei piisa enam ka tuhandetest eurodest lisatasust kuus](http://www.err.ee/1059929/maal-tootavate-perearstide-tasu-voib-mitmekordistuda). Iisrael on meil mitmes mõttes käes. Kunagi [Arengufondi asutades õppis Eesti kõvasti sellest, kuidas Iisraeli idufirmade-imele 70ndatel aastatel algus pandi](https://www.ituudised.ee/uudised/2014/04/14/iisraeli-professorid-eesti-riik-toetagu-idufirmasid), ka poolriiklike risikapitalifondide loomisega. Äkki tasuks meil nüüd selles faasis vaadata Iisraeli poole ka selle pilguga, kuidas meie oma idufirma-buumi ajal ülejäänud ühiskonda ree pealt maha ei jätaks. Nagu Memo lugeja P.K. sel nädalal ütles: _"Eesti on ju koht, kus ülehomme saabub juba homme."_ PS. Tõesti, väga, väga lahe on, kui te meile kirjutate. Aitäh!!  
+P

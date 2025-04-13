@@ -1,0 +1,15 @@
+---
+title: Asutajad ja ametnikud
+memo_number: 28
+date: 2019-10-14
+time: 08:30
+deliveries: 227
+---
+
+# MEMO
+## 1 
+“Mina sulle kätte ei maksa. Kuid elu maksab.” Nullindate algus. Dramaatilised sõnad kuuldavale toonud hallipäine prillidega bürokraat seisab riigiasutuse fuajees, vallandamisteade käes ja saadab talle selle paberi pihku toppinud noore juristi suunas viimase põlastava pilgu. Minut enne seda oli jurist ummisjalu treppidest alla jooksnud, et hallpea enne majast väljumist kätte saada. Kardeti, et ta jõuab muidu haiguslehe võtta ning oma vallandamist sedasi nipitades edasi lükata. Vana ametnikku kahtlustati tõsises korruptsioonis. Usuti isegi seda, et ta soovib veel ühe viimase tehingu vasakule keerata, et siis teenitud puhkusele minna. Võib olla just selle stseeniga saavadki selles ministeeriumis 90ndad ametlikult läbi. Ja millised 90ndad! Need aastad tegid nii mõnestki ametnikust jõuka mehe. Riigi raha suunamine võis olla väga tulus. Jõukus tekkis kiiremini kui sa suudad öelda “kontsernikonto” või "autobaas". Aga edasi? Riigi rahakott läks üha kesksema kontrolli alla. Väikesed hüvede jagamise kuningriigid kukkusid ükshaaval kokku. Eesti ühines Euroopa Liidu ja NATO-ga. Kas Eesti oleks neid asju saavutanud, kui poleks olnud seda noort juristi ja teisi temasuguseid, meie tänaseid ametnikke? Miks see noor inimene üldse olemas oli? Miks ta oli valemängu peale nii vihane, et ta ei kõhelnud tülli minna vana korüfeega? Miks need uued tüübid võitsid? Või kas nad üldse võitsid...  
+## 2 
+Reedel käis Sten esinemas Eesti tänastele tipp-ametnikele. Ettekandeks valmistudes kuulas ta ametnikest sõprade lugusid 90ndatest ja nullindatest. Ja leidis ühe [üsna _hardcore_ intervjuu aastast 1997](https://www.ohtuleht.ee/14085/jaga-ja-valitse). Võib olla suurim viga, mida veel tänagi kergekäeliselt tehakse, on ametnike ja ettevõtjate rumal vastandamine. Oluline on hoopis üksteiselt õppida. Kuidas panna mingi riigivaldkond 10X kiiremini kasvama nagu seda prooviks teha idufirma asutaja. Või kuidas oma idufirma tootega kogemata ühiskonna elu mitte 10X kehvemaks teha, nagu oskaks kaaluda mõjuanalüüse valdav ametnik. Riik ja majandus liiguvad edasi kui ametnik ja ettevõtja teineteise püüdlusi toetavad, mitte ei vaena. Mõte "Riik on ees" on eesti keeles nagu kvant-seisund: samal ajal tähendab nii takistuseks olemist, kui ees sammumist. Kui see tasakaal on paigas, siis ei peaks olema kuristik ametniku ja ettevõtja vahel, vaid professionaalsuse ja pahatahtlikkuse (või lolluse) vahel. Eriti tundub meile, et tublid Eesti ametnikud vajavad ettevõtja mõistmist ja õlalepatsutust täna, kui tekkinud uus arusaamatu vaenlane: konspiratiivsest süvariigist lalisev populistlik poliitik.  
+## 3  
+[Ametnik vs Asutaja slaidid on siin](https://docs.google.com/presentation/d/1x2Lp_uhFIDFLIfRabJCBSzdUVKMtW4eUfw05gbqpmd4/edit) Memo lugejatele näha ja kommenteerida. Esineja-märkmed seal ehk ka abiks.

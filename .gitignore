@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+# Exclude source data that might contain sensitive information
+source/substack/email_list.*.csv
+source/substack/posts/*.delivers.csv
+source/substack/posts/*.clicks.csv
+source/substack/posts/*.opens.csv
+source/*/metadata.json
+source/*/subscribers.csv
+source/*/email_list.csv
+
+
+# Analytics and generated content
+# analytics/visualizations/
+# analytics/summary.txt
+
+# Logs
+*.log
+logs/
+
+# Local configuration
+config.py
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+*.bak 

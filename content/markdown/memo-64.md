@@ -1,0 +1,20 @@
+---
+title: Tootlik jaanipäev
+memo_number: 64
+date: 2020-06-22
+time: 08:30
+deliveries: 313
+---
+
+# MEMO
+## 1  
+Millal siis veel rääkida produktiivsuse tööriistadest kui mitte jaaniõhtul? Daniel tahaks kõik need äpid ära kägistada. Eriti need, mis lubavad sul oma elu paremini kontrollida, kuid tagajärjeks on "in-app purchases" ja kuskile unustatud ja kaotatud märkmed, pildid, andmed. Abistavad äpid on tema arvates nagu kooreüraskid, mis nakitsevad su argipäeva koore all ning mõtlevad ainult sellele, kuidas oma kõhtu täita. Ikka 4.99 kuus. Kuskil tema kolimiskastide põhjas vedeleb mõrase klaasiga [pihuarvuti](https://electronics.howstuffworks.com/gadgets/travel/pda.htm) (mäletate neid veel?), milles on Danieli päevik Siim Kallasega koos töötatud aastaist. Seal peaksid olema ka tähelepanekud Kallase kohtumisest Donald Rumsfeldiga, telefonikõnest George W. Bushiga jne. Neid ei saa enam kunagi kätte. Kui miski on ennast Danielile tõestanud heas mõttes, on see Google Suite, kus on tõesti kergesti kättesaadav muljetavaldav data rohkem kui 10 aastast.  
+## 2 
+Sten nii halvasti uutest äppidest ei arva. Tegelikult oli ta ilmselt esimene, kes ka Google'i tööriistade peale üle läks ning sõbrad kaasa tõmbas, kui need veel privaatseid kutseid vajasid. Aga täna näiteks on ta üsna elevil hoopis neist asjadest:
+  * Märkmete tegemise maailmas lööb pea kultuslikke laineid [Roam Research](http://roamresearch.com), mis üritab Su pilla-palla märkmed omavahel kokku siduda bioloogilise aju toimimist jäljendavaks seostevõrgustikuks. Mitmed Memo lugejadki kinnitavad, et nad enam Roamist tagasi pöörduda ei suuda. Roam on küll rohkem soolo-töörist, kui kellegiga koos on vaja sisu kirjutada, nt see Memo siin, siis seda teeme tänapäeval [Notionis](https://www.notion.so/).
+  * Tundub, et käimas on mingi läbimurre e-mail-tarkvarades. Paar aastat tagasi paistis, et äkki mõni chati-app või suhtevõrgustik lõpetab emaili piinad, aga selline täielikult avatud platvorm naljalt ära ei sure. Sestap tuleb praegu peale uus laine vahendeid, mis pigem lahendavad e-posti avatusest tulenevaid probleeme (soovimatud kontaktid, laiali lõimed, kaasapandud failid, pidevad märguanded jne), kui üritavad e-mailist lahti saada. [Hey](https://hey.com/) kutse-sabas ootavad veel kümned tuhanded inimesed ([vaata siit videost, miks](https://www.youtube.com/watch?v=UCeYTysLyGI)). Ja [Tempo](https://www.yourtempo.co/) on ilmselt kõige visuaalselt puhtam ja müravabam e-postikogemus, mida 80ndate tekstiterminalist saadik nähtud on.
+  * Ja siis on veel maailma halvim e-postiprogramm [Bye](https://www.producthunt.com/posts/bye-2), mis lihtsalt korra solvab Sulle kirjutavaid inimesi, enne kui nende emailid kustutab.
+
+Aga muidu [läks Sten pooleks aastaks isapuhkusele](https://sten.tamkivi.com/2020/06/off-to-parental-leave/) ja logis reede õhtul oma firma Slackist välja. See on hoopis teistmoodi äpi-kogemus.  
+## 3
+Eelmises Memos kasutasime ühe lause puhul kolmnurkseid sulgusid, mille tõttu meie uudiskirja-äpp ei edastanud seda teksti. Seega võis pisut segaseks jääda viide sellele, et kes Stenilt läbi Mediacomi raha eest tviite proovis tellida. Tegemist oli ühe Euroopa suure institutsiooniga. Miks me selle teema juurde tagasi tuleme? Esiteks seetõttu, et vähemalt üks Memo lugeja oli veel samasuguse sisuga kirja saanud. Aga teiseks sellepärast, et meil on tekkimas tõsine kahtlus, et vähegi suurema järgijaskonnaga inimesed saavad pakkumisi midagi raha eest postitada üha sagedamini. Kujutle maailma, kus sa ei saa usaldada ühtegi kirjanikku, lauljat, mõtlejat, poliitikut, üleüldse kedagi, kes vähegi tuntud on, sest õhus ripub võimalus, et talle on jutu eest keegi maksnud. Ametlikule meediale kajastuste eest maksmine on justkui häbiväärne, kuigi sisuturunduse mõiste ja hägused risti-rästi suhted kohalike oligarhide erinevate äride vahel on ka siin palju muutnud. Tuntud inimesed on ise meediakanalid, ja nendes kanalites reklaami ei tähistata. Mis jääb järele avalikust ruumist pärast seda kui mingi suvaline ketshup võib rentida endale kultuuritegelaste ja muude tuntud inimeste toetust nagu see oleks Airbnb?
