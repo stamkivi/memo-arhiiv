@@ -42,10 +42,19 @@ source/*/metadata.json
 source/*/subscribers.csv
 source/*/email_list.csv
 
+# Content and media files
+content/images/
+content/*.jpg
+content/*.jpeg
+content/*.png
+content/*.gif
+content/*.mp4
+content/*.webm
+content/*.pdf
 
 # Analytics and generated content
-# analytics/visualizations/
-# analytics/summary.txt
+analytics/visualizations/
+analytics/summary.txt
 
 # Logs
 *.log
