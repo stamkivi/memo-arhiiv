@@ -1,46 +1,40 @@
-# Memo Archive Processing Scripts
+# Memo Archive Analysis Tool
 
-A collection of Python scripts for processing and managing Memo archives from different sources.
+This tool analyzes and processes memo archives, providing insights and visualizations of the content.
 
-To use, provide the following inputs
-1) source/smaily - save the posts CSV file from Smaily (old memos), and the script auto-downloads all the post contents from web.
-2) source/substack - export the HTML posts + metadata from Subsctack
+## Features
 
-## Scripts Overview
+- Analyzes memo content and structure
+- Generates visualizations of memo patterns
+- Processes and categorizes memo data
+- Creates word clouds and sentiment analysis
 
-### Main Processing Scripts
+## Installation
 
-- `process_smaily.py`: Processes memos from Smaily email campaigns, converting them to markdown format.
-- `process_substack.py`: Converts Substack newsletter HTML files to markdown format.
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-### Verification and Recovery
+## Usage
 
-- `verify_processing.py`: Checks for any missing memos, files, or images across the archive.
-- `process_missing_files.py`: Automatically recovers missing content identified by the verification script.
-
-## When to Run Each Script
-
-1. Run `process_smaily.py` and `process_substack.py` first to process new content.
-2. Run `verify_processing.py` to check if any content is missing.
-3. If verification finds issues, run `process_missing_files.py` to recover the missing content.
-
-## Usage Example
-
+Run the analysis script:
 ```bash
-# Process new content
-python3 process_smaily.py
-python3 process_substack.py
-
-# Verify everything is processed
-python3 verify_processing.py
-
-# If needed, recover missing content
-python3 process_missing_files.py
+python analyze_memos.py
 ```
 
-You can also process specific types of missing content:
-```bash
-python3 process_missing_files.py --only smaily    # Only process missing Smaily memos
-python3 process_missing_files.py --only substack  # Only process missing Substack files
-python3 process_missing_files.py --only images    # Only download missing images
-```
+## Configuration
+
+The tool uses a `config.py` file for configuration. Create this file based on your needs.
+
+## Data Privacy
+
+This tool is designed to handle sensitive data. Make sure to:
+- Never commit sensitive data to the repository
+- Use appropriate .gitignore rules
+- Handle personal information according to privacy regulations
+
+## License
+
+MIT License
