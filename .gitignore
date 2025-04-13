@@ -61,7 +61,6 @@ analytics/summary.txt
 logs/
 
 # Local configuration
-config.py
 .env
 .env.local
 .env.*.local
