@@ -1,12 +1,28 @@
 Memo Archive Analytics Summary
 =============================
 
-total_memos: 321
-avg_words_per_memo: 554.3676012461059
-avg_links_per_memo: 14.18380062305296
-avg_images_per_memo: 1.2024922118380061
-avg_deliveries: 445.6884735202492
-avg_sentiment: -0.11441612904191806
+total_memos: 316
+avg_words_per_memo: 551.6645569620254
+avg_links_per_memo: 14.272151898734178
+avg_images_per_memo: 1.2088607594936709
+avg_deliveries: 452.74050632911394
 time_span:
   start: 2019-04-08
   end: 2025-04-13
+avg_sentiment: 0.05660102002927204
+
+Top 5 Shortest Memos:
+-------------------
+Memo 66: 26 words
+Memo 164: 242 words
+Memo 67: 248 words
+Memo 174: 261 words
+Memo 117: 267 words
+
+Top 5 Longest Memos:
+------------------
+Memo 100: 2499 words
+Memo 315: 1213 words
+Memo 210: 1069 words
+Memo 204: 1056 words
+Memo 209: 997 words
