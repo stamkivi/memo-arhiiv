@@ -6,7 +6,9 @@ time: 06:30
 deliveries: 425
 ---
 
-# MEMO ## 1 
+# MEMO 
+
+## 1 
 
 Daniel sisenes hommikusel tunnil Versuse treeningsaali. Üks raskekaalu tüüp venitas lihaseid. Üks tegi hantlitega paigaljooksu. Tagaruumist kostsid matsud vastu poksikotti. 
 
