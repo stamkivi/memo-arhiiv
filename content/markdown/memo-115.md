@@ -6,7 +6,9 @@ time: 05:30
 deliveries: 387
 ---
 
-# MEMO ## 1 
+# MEMO
+
+## 1 
 
 Seal nad passivad. [Ambaalid](<https://www.eki.ee/cgi-bin/sl_dic/?31>).   
   
