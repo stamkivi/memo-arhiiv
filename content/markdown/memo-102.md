@@ -1,5 +1,5 @@
 ---
-title: "" Edasi"
+title: "Edasi"
 memo_number: 102
 date: 2021-03-15
 time: 06:30
