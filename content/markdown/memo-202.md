@@ -1,5 +1,5 @@
 ---
-title: "" Rainer"
+title: "Rainer"
 memo_number: 202
 date: 2023-02-13
 time: 06:30
