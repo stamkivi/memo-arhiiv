@@ -6,7 +6,9 @@ time: 06:30
 deliveries: 372
 ---
 
-# MEMO ## 1 
+# MEMO
+
+## 1 
 
 Pärast eelmise nädala memo jäi meil kripeldama küsimus: mis on saanud kõigist kompetentsetest amentikest, keda kunagi koolitati kriise juhtima Eesti, [Rootsi](<https://www.fhs.se/en/centre-for-societal-security/research/crismart.html>), USA ja teiste riikide parimate spetside abil. 
 
