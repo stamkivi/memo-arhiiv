@@ -6,7 +6,9 @@ time: 06:30
 deliveries: 353
 ---
 
-# MEMO ## 1 
+# MEMO
+
+## 1 
 
 Pühad vanaema juures. Televiisor. Teler. TV-seade, või kuidasiganes seda ka ei kutsutud. Midagi edasi ega tagasi kerida ei saa. Pead ära vaatama kõik saated ning kannatama ära 30 tundi reklaami ühe Die Hardi vahel.   
   
@@ -20,7 +22,7 @@ See pole ETV süü. See pole TV3 süü. Lihtsalt sellise kraami aeg on ühel võ
   
 Tik. Tok.  
   
-2.
+## 2
 
 Raha-alternatiividega liigub jõudsamalt.
 
@@ -58,11 +60,3 @@ PS: [Hiina kahaneb](<https://noahpinion.substack.com/p/chinese-demography?token=
 [code]
     See oli 2020. aasta viimane Memo.  Meil kõigil on uut vaja.
 [/code]
-
-* * *
-
-Kui sulle Memo meeldib, või sellest isegi kasu on, **[palun kaalu Levila toetamist Patreonis](<https://www.patreon.com/levila>)**.
-
-Kui Sul tekkis kiire vastulause, idee edasiarendus või küsimus, vasta palun lihtsalt sellele emailile. Vastused lähevad Memo autoritele, mitte otse kõigile tellijatele.
-
-Memo on iganädalane kiri, kus Daniel ja Sten jagavad oma subjektiivset kiiranalüüsi Eestis ja maailmas loetust, kuuldust, räägitust või nähtust. Memo tellimiseks peab juba listis olev lugeja oma isikliku soovitusena edastama uue lugeja mailiaadressi. Sa võid selle kirja ka ise saata mõnele sõbrale tutvumiseks edasi.
