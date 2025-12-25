@@ -1,12 +1,14 @@
 ---
-title: "" Kallas"
+title: "Kallas"
 memo_number: 90
 date: 2020-12-21
 time: 06:30
 deliveries: 353
 ---
 
-# MEMO ## 1 
+# MEMO 
+
+## 1 
 
 Väike tervitus Siim Kallasele! Daniel meenutab, kuidas ta töötas temaga koos 1999-2003.   
   
