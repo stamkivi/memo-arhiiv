@@ -6,7 +6,9 @@ time: 05:30
 deliveries: 390
 ---
 
-# MEMO ## 1 
+# MEMO
+
+## 1 
 
 [Ulme](<https://et.wikipedia.org/wiki/Ulme>) saab ennustada tulevikku kolmel moel. 
 
@@ -40,13 +42,9 @@ Meil on õnn elada ajastul, kus sada ja viiskümmend aastat tagasi valmis unista
 
 Alguses [tulevad lubatud videokõned](<https://www.akkadianlabs.com/a-history-of-video-conferencing-according-to-sci-fi/>). Ja siis [hullavad ektsentrilised miljardärid võidu kosmoses](<https://www.bloomberg.com/news/articles/2021-07-16/billionaire-space-race-between-bezos-branson-and-musk-is-just-the-beginning>).
 
-1980\. aastal vermitud terminiga düstoopiline [küberpunk](<https://et.wikipedia.org/wiki/K%C3%BCberpunk>)-ajastu on nüüd lihtsalt argipäev: 
+1980. aastal vermitud terminiga düstoopiline [küberpunk](<https://et.wikipedia.org/wiki/K%C3%BCberpunk>)-ajastu on nüüd lihtsalt argipäev: 
 
-[![Twitter avatar for @Noahpinion](https://substackcdn.com/image/twitter_name/w_96/Noahpinion.jpg)Noah Smith 🐇 @NoahpinionThe cool thing about cyberpunk coming true is that we got ALL the cyberpunk futures. China: universal surveillance and social control America: cool gadgets and staggering inequality Russia: shadowy plots, covert ops, and assasins Japan: Japan](<https://twitter.com/Noahpinion/status/1002598573316247552>)[5:11 PM ∙ Jun 1, 2018
-
-* * *
-
-15,639Likes6,283Retweets](<https://twitter.com/Noahpinion/status/1002598573316247552>)
+[Noah Smith 🐇 @NoahpinionThe cool thing about cyberpunk coming true is that we got ALL the cyberpunk futures. China: universal surveillance and social control America: cool gadgets and staggering inequality Russia: shadowy plots, covert ops, and assasins Japan: Japan](<https://twitter.com/Noahpinion/status/1002598573316247552>)
 
 Noah Smith kirjutas selle toonase säutsu mõttelise jätkuna nüüd [väga hea pikema essee](<https://noahpinion.substack.com/p/cyberpunk-came-true-so-whats-next>), kus ta küsib, millest me nüüd järgmisena unistame, teaduslike faktide toel? (Biosolarpunk?)
 
